@@ -1,0 +1,32 @@
+# Android / Java / Kotlin
+*.class
+*.apk
+*.ap_
+*.dex
+*.dvm
+*.o
+*.so
+bin/
+gen/
+out/
+build/
+.gradle/
+
+# C / C++
+*.o
+*.ko
+*.obj
+*.elf
+*.a
+*.lib
+*.so
+*.dll
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS Junk
+.DS_Store
+Thumbs.db
